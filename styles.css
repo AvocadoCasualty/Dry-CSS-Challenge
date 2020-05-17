@@ -1,0 +1,22 @@
+header, footer{
+    background: black;
+    padding: 40px;
+    color: white;
+}
+
+header h1, footer h2{
+    color: white;
+}
+
+.row{
+    padding: 40px 0px;
+}
+
+.instructions{
+    background: #ccc;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+
+/* PUT YOUR CSS BELOW THIS LINE */

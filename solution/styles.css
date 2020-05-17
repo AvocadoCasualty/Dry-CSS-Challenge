@@ -1,0 +1,70 @@
+header, footer{
+    background: black;
+    padding: 40px;
+    color: white;
+}
+
+header h1, footer h2{
+    color: white;
+}
+
+.row{
+    padding: 40px 0px;
+}
+
+.instructions{
+    background: #ccc;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+
+/* PUT YOUR CSS BELOW THIS LINE */
+
+/* Note there is more than one way to write clean css, this is one of the more popular methods. If you would like me to look at your way or explain other ways I am happy to! Just message me :D */
+/* Also note, there are some styles that ARE repeated, however, in order to keep things easy and organized it is best to keep Card 1 and Card 2 in this example, seperated in the CSS. It makes it easiest to see what is being applied to each card seperatly. */ 
+
+.card1 {
+    margin: 10px;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+.card1 h2 {
+    margin: -20px -20px 20px -20px; /* CSS order from left to right: TOP, RIGHT, BOTTOM, LEFT (Clockwise) */
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.bg-blue {
+    background-color: lightskyblue;
+}
+
+.bg-green {
+    background-color: lightgreen;
+}
+
+.card2 {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.bdr-gold{
+    border: 3px solid gold;
+}
+
+.bdr-green{
+    border: 3px solid green;
+}
+
+.bdr-red{
+    border: 3px solid red;
+}
+
+
+
+
